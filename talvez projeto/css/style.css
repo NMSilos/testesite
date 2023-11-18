@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+
+#contador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#teste{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    font-size: 200px;
+    color: white;
+}
+
+#avisocontador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+#aviso{
+    font-family: "Times New Roman", serif;
+    font-size: 24px;
+    color: red;
+}
+
+#teste{
+    font-size: 20px;
+    color: red;
+}
+
+#arrombado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#querClicar{
+    font-size: 20px;
+    color: red;
+}
